@@ -15,14 +15,16 @@ Welcome to **Highlighter Guru**, a free and open-source text highlighting extens
 2. **Press 'h' on Your Keyboard:** Instantly apply your chosen highlight to the selected text.
 3. **Right-Click for More Options:** Explore additional options by right-clicking on any highlighted text. Edit, add notes, or organize it into folders – all with a few clicks.
 
-## Key Features
 
-- **Effortless Highlighting:** Select any text on a web page and press 'h' on your keyboard to instantly highlight it.
-- **Customization Options:** Tailor your reading experience with a variety of highlighting colors and font options.
-- **Folder Organization:** Create folders to categorize and organize your highlights for easy access.
-- **Notes and Annotations:** Add context to your highlights by attaching notes, keeping key points and thoughts just a click away.
-- **Keyboard Shortcuts:** Customize your experience by setting preferred keyboard shortcuts to integrate Highlighter Guru seamlessly into your workflow.
-- **Right-Click Options:** Gain quick access to additional features by right-clicking on any highlighted text. Edit, delete, or review your notes effortlessly.
+
+
+## Main Features
+- **Easy Highlighting:** Just press 'h' after selecting any text on a webpage to highlight it quickly.
+- **Personalization:** Customize your reading experience with different colors and fonts for highlighting.
+- **Folder Organization:** Create folders to keep your highlights organized and easy to find.
+- **Notes and Comments:** Add notes to your highlights to remember important points or thoughts.
+- **Keyboard Shortcuts:** Set shortcuts to make using Highlighter Guru even easier.
+- **Right-Click Options:** Access extra features by right-clicking on highlighted text, like editing or deleting.
 
 ## Contributing
 
